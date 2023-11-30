@@ -15,6 +15,19 @@ My Certificates 🧑‍🎓
 3. **Python Django: Development to Deployment <img width="25px" src="https://github.com/WojciechStancel/Certificates/assets/121879383/139ed469-d321-4a58-a767-52a1ca24bd91" /> <img width="45px" src="https://github.com/WojciechStancel/Certificates/assets/121879383/f698d67f-fe9e-451e-bb78-97d7d9e5e5ed" />**
    ![Python Django: Development to Deployment](Python_Django_Dev_To_Deployment.jpg)
 
+### Frontend Cerificates 🧾
+---
+1. **HTML, CSS, RWD** <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+![HTML, CSS, Responsive Web Design Part 1](HTML_CSS_RWD_PT1.jpg)
+2. **Sass, JavaScript and Bootstrap** <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> 
+![Sass, JavaScript, Bootstrap](Sass_JS_Bootstrap.jpg)
+3. **JavaScript Course** <img width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+![JavaScript Course](JavaScript_Course.jpg)
+4. **Flexbox, Grid, BEM**  <img width="25" src="https://github.com/WojciechStancel/Certificates/assets/121879383/21af144d-aa86-4aa3-bc80-6c3c3a3d0b3f">
+
+
+   <img width="100%" src="https://github.com/WojciechStancel/Certificates/blob/master/MMC_School_Certificate.png" />
+
 
 Thank you for your interest in my achievements! 🙏
 
